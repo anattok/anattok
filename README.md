@@ -10,18 +10,36 @@
 I want to master javaScript at a professional level.
 
 ## Skills:
+<p align = "left">
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</p>
 
-<a href= "#"></a><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></a><br>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></a>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/></a>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/></a><br>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
-<a href= "#"><img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
-<a href= "#"><img width="80px" src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd"/></a><br>
+<p align = "left">
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
+</p>
+
+<p align = "left">
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+    <img width="80px" src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd"/>
+</p>
 
 
+
+
+## Stats:
+
+<a href="https://github.com/anattok/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anattok&layout=compact"/>
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=anattok3&show_icons=true&count_private=true">
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=anattok&show_icons=true&count_private=true"/>
+</a>
  
 
 ## Education:
@@ -33,3 +51,10 @@ The Rolling Scopes School 2023-2023 (Stage 1 - 4)<br>
 ## English:
 
 Beginner
+
+<div align="left" style="margin: 40px 0">
+   <a href="https://github.com/anattok/github-profile-views-counter">
+       <img width="100px" src="https://komarev.com/ghpvc/?username=anattok3&color=DE002D">
+   </a>
+</div>
+

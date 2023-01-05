@@ -32,14 +32,16 @@ I want to master javaScript at a professional level.
 
 
 ## Stats:
-
-<a href="https://github.com/anattok/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anattok&layout=compact"/>
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=anattok3&show_icons=true&count_private=true">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=anattok&show_icons=true&count_private=true"/>
-</a>
+<p align = "left">
+    <a href="https://github.com/anattok/github-readme-stats">
+        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anattok&layout=compact"/>
+    </a>
+</p>
+<p align = "left">
+    <a href="https://github-readme-stats.vercel.app/api?username=anattok3&show_icons=true&count_private=true">
+        <img height=180 src="https://github-readme-stats.vercel.app/api?username=anattok&show_icons=true&count_private=true"/>
+    </a>
+</p>
  
 
 ## Education:

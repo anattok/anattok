@@ -1,4 +1,4 @@
-# Hi, i am Tolya. Junior frontend Developer 🧐
+# Hi, i am Anatoliy Tokarev 😎
 
 ## Contacts:
 <a href="https://t.me/anattok"><img width="50px" src="https://icons.iconarchive.com/icons/froyoshark/enkel/256/Telegram-icon.png"></a>
@@ -6,7 +6,7 @@
 
 
 ## About Me:
-
+I am currently studying at The Rolling Scopes School.
 I want to master javaScript at a professional level.
 
 ## Skills:
@@ -21,6 +21,11 @@ I want to master javaScript at a professional level.
     <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
     <img width="80px" src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd"/>
 </p>
+<!-- <p align = "left">
+    <img width="80px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
+    <img width="80px" src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg"/>
+</p> -->
 
 
 
@@ -29,7 +34,7 @@ I want to master javaScript at a professional level.
 ## Stats:
 <img src='https://www.codewars.com/users/rsschool_1314c94c11860f8d/badges/micro'>
 <br>
-<p align = "left">
+<!-- <p align = "left">
     <a href="https://github.com/anattok/github-readme-stats">
         <img height=180 width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anattok&layout=compact"/>
     </a>
@@ -38,7 +43,7 @@ I want to master javaScript at a professional level.
     <a href="https://github-readme-stats.vercel.app/api?username=anattok3&show_icons=true&count_private=true">
         <img height=180 width="380px" src="https://github-readme-stats.vercel.app/api?username=anattok&show_icons=true&count_private=true"/>
     </a>
-</p>
+</p> -->
  
 
 ## Education:
